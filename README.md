@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://cdn.lowgif.com/medium/6a18d06132677e25-blockchain-the-transforming-technology-and-its-applications-20108.gif)
+
+![enter image description here](https://i.gifer.com/origin/1e/1eb8351bdfcc7372fc4a5f88615d7229.gif)
 
 <h1 align="center">Hi 👋, I'm Miulesi Kulasekara</h1>
 <h3 align="center">A Software Engineering Undergraduate at SLIIT</h3>
