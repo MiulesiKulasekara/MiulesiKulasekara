@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://miro.medium.com/max/1400/1*1uIttjuEz_Ry7EghgQnHkA.gif" width="100%" height="300px">
+<img src="https://miro.medium.com/max/1400/1*1uIttjuEz_Ry7EghgQnHkA.gif" width="100%" height="400px">
 
 <h1 align="center">Hi 👋, I'm Miulesi Kulasekara</h1>
 <h3 align="center">A Software Engineering Undergraduate at SLIIT</h3>
